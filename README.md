@@ -1,23 +1,18 @@
 ## Hi there 👋
-[![Articles](https://badgen.org/img/zenn/ymtg/articles?style=plastic)](https://zenn.dev/ymtg)
-[![Books](https://badgen.org/img/zenn/ymtg/books?style=plastic)](https://zenn.dev/ymtg?tab=books)
-<!--
-**ymtg7101/ymtg7101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!-- type name -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=25&center=false&vCenter=false&width=400&height=100&lines=ymtg7101++YMTG;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymtg7101)](https://github.com/anuraghazra/github-readme-stats)
+### About me
+My name is **ymtg7101**. I am a middle school student in Japan.
 
+### Tech Stack
+<!-- skills -->
 [![Programming Languages](https://skillicons.dev/icons?i=github,visualstudio,vscode,discord,c,cpp,rs,py,unity)](https://skillicons.dev)
+
+### Statistics
+<!-- zenn -->
+[![Articles](https://badgen.org/img/zenn/ymtg/articles?style=plastic)](https://zenn.dev/ymtg)
+[![Books](https://badgen.org/img/zenn/ymtg/books?style=plastic)](https://zenn.dev/ymtg?tab=books)
+
+<!-- top langs -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymtg7101)](https://github.com/anuraghazra/github-readme-stats)
