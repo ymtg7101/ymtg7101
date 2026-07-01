@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+[![Articles](https://badgen.org/img/zenn/ymtg/articles?style=plastic)](https://zenn.dev/ymtg)
+[![Books](https://badgen.org/img/zenn/ymtg/books?style=plastic)](https://zenn.dev/ymtg?tab=books)
 <!--
 **ymtg7101/ymtg7101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Automation+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=25&center=false&vCenter=false&width=400&height=100&lines=ymtg7101++YMTG;" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymtg7101)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Programming Languages](https://skillicons.dev/icons?i=github,visualstudio,vscode,discord,c,cpp,rs,py,unity)](https://skillicons.dev)
