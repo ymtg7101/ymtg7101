@@ -12,7 +12,7 @@ I want to try my hand at various things.
 ### Using Tools
 [![Programming Languages](https://skillicons.dev/icons?i=github,visualstudio,vscode,discord,unity)](https://skillicons.dev) <br>
 ### Using Languages
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,rs,py)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,rust,py)](https://skillicons.dev)
 
 <br>
 
