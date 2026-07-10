@@ -1,5 +1,5 @@
 <!-- type name -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montenegrin+Gothic+One&size=40&duration=1000&pause=500&color=469ED4&center=true&multiline=true&width=1000&height=100&lines=I+am+ymtg7101;A+Junior+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montenegrin+Gothic+One&size=40&duration=1000&pause=500&color=469ED4&center=true&multiline=true&width=1000&height=50&lines=I+am+ymtg7101;)](https://git.io/typing-svg)
 
 ## About me
 Hello.  I am **ymtg7101**. I am a middle school student in Japan. <br>
